@@ -14,3 +14,7 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Updates 
 
 1. Responsive need to be done
+
+## Images 
+
+![Landing Page](image.png)
